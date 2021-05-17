@@ -1,2 +1,2 @@
-echo "Meow" >> ./Meow
-echo  "Woof" >> ./Woof
+echo "Meow" >> Animals/Meow
+echo  "Woof" >> Animals/Woof
