@@ -1,1 +1,1 @@
-which source
+which echo
