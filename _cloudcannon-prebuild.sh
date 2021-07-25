@@ -1,1 +1,1 @@
-sleep 10
+export SYNC_PATHS="Animals"
