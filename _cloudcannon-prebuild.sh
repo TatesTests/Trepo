@@ -1,1 +1,1 @@
-export SYNC_PATHS="Animals"
+export SYNC_PATHS="Animals/"
