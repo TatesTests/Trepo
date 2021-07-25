@@ -1,2 +1,1 @@
-export SYNC_PATHS="/Animals/"
-env
+echo "test" >> .cloudcannon/sync_paths
