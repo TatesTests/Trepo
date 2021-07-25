@@ -1,2 +1,2 @@
-export SYNC_PATHS="/Animals/"
+SYNC_PATHS="/Animals/"
 touch Animals/Dolphin
