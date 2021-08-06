@@ -1,1 +1,5 @@
 @import 'import.css'
+
+.some-garbage{
+  display: none
+}
