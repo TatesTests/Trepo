@@ -1,4 +1,4 @@
-@import '/nested/import.css';
+@import '/nested/import.css'
 
 body{
   color: green;
